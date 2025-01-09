@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veda Vandana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Python,Django,HTML,CSS,JS**
 
